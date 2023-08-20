@@ -4,7 +4,7 @@ proyecto final python coderhouse
 
 Proyecto Final - Andres Soria
 
-Link Video https://www.awesomescreenshot.com/video/20017541
+Link Video https://www.awesomescreenshot.com/video/20017541?key=a0ce007fd6bf7f9e544a31b2ac930121
 
 Sistema para gestionar contenido simple, en éste caso, imágenes de distintas playas del mundo que se pueden ver, actualizar o eliminar mediante un registro/ingreso de usuario...
 
